@@ -5,3 +5,5 @@ Akif is a front-end developer. He is a team player with high adaptability and mo
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/akifacet/)
+
+Would you like to challenge me to a game of chess? [Chess Coach Akif Acet](https://lichess.org/@/akifacet)
