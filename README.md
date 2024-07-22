@@ -1,8 +1,8 @@
 ### Hi there,
 
-Akif is a Back-End Developer.  
+Akif is a back-end developer with practical experience in JavaScript, Node.js, PHP Laravel, and Golang. He is dedicated to delivering scalable and efficient backend solutions and enjoys collaborating with teams to address technical challenges.
 
-HTML, CSS, JavaScript ES6, ASP.NET, C, C#, DOM Manipulation, jQuery, Bash Command Line, Git, GitHub and Version Control, Node.js, NPM, Express.js, EJS, REST, APIs, Databases, SQL, PostgreSQL, Authentication, Firebase, Object-Oriented Programming (OOP), Data Structures and Algorithms, Cloud Computing.
+Focused on applying his skills to build robust systems, Akif is continuously expanding his knowledge of emerging technologies. Passionate about contributing to impactful projects, he is eager to connect with industry professionals to explore growth opportunities and collaborations.
 
 <i> "Life is like a chessboard. It contains millions of possibilities and alternative endings. <br> I made my first move when I was born and I will make my last move when I die. <br> I promise myself that I will enjoy every moment I live in the time in between." </i>
 
